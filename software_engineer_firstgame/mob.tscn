@@ -48,7 +48,7 @@ animations = [{
 radius = 53.0
 height = 124.0
 
-[node name="Mob" type="RigidBody2D"]
+[node name="Mob" type="RigidBody2D" groups=["mobs"]]
 gravity_scale = 0.0
 script = ExtResource("1_1qmh0")
 metadata/_edit_group_ = true
@@ -63,7 +63,7 @@ speed_scale = 3.0
 rotation = 1.5708
 shape = SubResource("CapsuleShape2D_jbnni")
 
-[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="." groups=["mobs"]]
 position = Vector2(-4.76837e-07, -0.499997)
 scale = Vector2(5, 3.45)
 
