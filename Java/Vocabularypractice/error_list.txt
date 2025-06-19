@@ -1,0 +1,3 @@
+kurz=short
+weiß=white
+drei=three
