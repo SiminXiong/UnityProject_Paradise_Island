@@ -1,6 +1,0 @@
-DirectionalLight3D
-MeshInstance3D
-MultiMeshInstance3D
-CollisionShape3D
-StaticBody3D
-Node
