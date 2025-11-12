@@ -7,22 +7,23 @@
 ## 🖼️ Gameplay Preview
 
 ### screenshots:
--start game
+
+#### start game
 ![game preview](Screenshot/start.gif)
 
--pick up things
+#### pick up things
 ![pick_things](Screenshot/pick_things.gif)
 
--choose tool
+#### choose tool
 ![choose_tool](Screenshot/choose_tool.gif)
 
--hoe the ground
+#### hoe the ground
 ![hoe](Screenshot/hoe.gif)
 
--planting
+#### planting
 ![planting](Screenshot/planting.gif)
 
--harvest and pick fruit
+#### harvest and pick fruit
 ![harvest](Screenshot/harvest.gif)
 
 ---
